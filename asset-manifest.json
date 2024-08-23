@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Eswarg7788/Shoping-cart-using-ReactJS/static/css/main.9742a6ef.css",
-    "main.js": "/Eswarg7788/Shoping-cart-using-ReactJS/static/js/main.95f895ab.js",
-    "static/js/453.867a1b31.chunk.js": "/Eswarg7788/Shoping-cart-using-ReactJS/static/js/453.867a1b31.chunk.js",
-    "index.html": "/Eswarg7788/Shoping-cart-using-ReactJS/index.html",
-    "main.9742a6ef.css.map": "/Eswarg7788/Shoping-cart-using-ReactJS/static/css/main.9742a6ef.css.map",
-    "main.95f895ab.js.map": "/Eswarg7788/Shoping-cart-using-ReactJS/static/js/main.95f895ab.js.map",
-    "453.867a1b31.chunk.js.map": "/Eswarg7788/Shoping-cart-using-ReactJS/static/js/453.867a1b31.chunk.js.map"
+    "main.css": "/Shoping-cart-using-ReactJS/static/css/main.9742a6ef.css",
+    "main.js": "/Shoping-cart-using-ReactJS/static/js/main.e29aafd1.js",
+    "static/js/453.867a1b31.chunk.js": "/Shoping-cart-using-ReactJS/static/js/453.867a1b31.chunk.js",
+    "index.html": "/Shoping-cart-using-ReactJS/index.html",
+    "main.9742a6ef.css.map": "/Shoping-cart-using-ReactJS/static/css/main.9742a6ef.css.map",
+    "main.e29aafd1.js.map": "/Shoping-cart-using-ReactJS/static/js/main.e29aafd1.js.map",
+    "453.867a1b31.chunk.js.map": "/Shoping-cart-using-ReactJS/static/js/453.867a1b31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9742a6ef.css",
-    "static/js/main.95f895ab.js"
+    "static/js/main.e29aafd1.js"
   ]
 }
